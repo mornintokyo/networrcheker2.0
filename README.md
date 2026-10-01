@@ -21,4 +21,4 @@ Python 3.8+
 ## Usage
 
 ```bash
-python3 network_check.py
+python3 networkcheker2.0.py
